@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2024-12-09T14:20:55.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="l9ktWNPUM7-EH1hhWR09" version="23.1.5" type="device" pages="2">
+<mxfile host="Electron" modified="2024-12-09T14:26:11.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="QjNY42DbsvLnUG-3oQ3U" version="23.1.5" type="device" pages="2">
   <diagram name="Page-1" id="QbkkgsMDkH_GlrHjEnIB">
     <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="xrybCc77rTdmahBuqhCi-15" value="Feature" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="10" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pYwc-InU3lfuEUP4mM3F-3" value="ICI" style="html=1;outlineConnect=0;whiteSpace=wrap;shape=mxgraph.archimate3.locationIcon;fillColor=#efd1e4;aspect=fixed;rotation=10;" vertex="1" parent="1">
+          <mxGeometry x="400.64" y="390.54" width="63" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
